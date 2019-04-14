@@ -22,7 +22,7 @@ Through 2017, over 140 million reviews were available on the Yelp website. Yelp 
 Each review contains a review text, user_id, business_id, stars between 1 to 5 (*rating in stars*).<br>
 Each review also contains several important pieces of metadata, such as the review date and how many other reviewers up voted each review as funny or cool.
 
-![Image to show how does yelp dataset look like](./img/one)
+![Image to show how does yelp dataset look like](./img/one.png)
 
 
 [1]: https://www.yelp.com/dataset
